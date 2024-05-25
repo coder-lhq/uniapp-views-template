@@ -56,3 +56,9 @@
 ![首页模板](./showTemplateView/image-20240525152942820.png)
 
 ![首页模板](./showTemplateView/image-20240525153031972.png)
+
+### 商品列表页面
+
+#### 1.模板一：
+
+![商品列表模板一](./showTemplateView/image-20240525154438419.png)

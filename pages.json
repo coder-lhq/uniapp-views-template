@@ -41,6 +41,14 @@
 			    "navigationBarTitleText": "商品分类",
 			    "enablePullDownRefresh": false
 			} 
+		},
+		{
+			"path" : "pages/coupon/coupon",
+			"style" :                                                                                    
+			{
+			    "navigationBarTitleText": "优惠卷",
+			    "enablePullDownRefresh": false
+			} 
 		}
     ],
 	"tabBar": {
@@ -83,6 +91,12 @@
 				"iconPath": "static/tab-my.png",
 				"selectedIconPath": "static/tab-my-current.png",
 				"text": "我的"
+			},
+			{
+				"pagePath": "pages/coupon/coupon",
+				"iconPath": "static/tab-cart.png",
+				"selectedIconPath": "static/tab-cart-current.png",
+				"text": "优惠卷"
 			}
 		]
 	},
